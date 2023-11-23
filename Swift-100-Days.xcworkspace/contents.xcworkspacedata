@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Ranges.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Switch.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Tenary.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Conditionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Comparison.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Compound.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Overloading.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:RawValue.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Enumerations.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Empty.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Dictionary.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Collections.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Tuples.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Sets.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Arrays.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Test.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Constants.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Interpolation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Booleans.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Strings.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Variables.playground">
+   </FileRef>
+</Workspace>
