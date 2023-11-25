@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Exiting.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Repeat.playground">
+   </FileRef>
+   <FileRef
+      location = "group:While.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Loops.playground">
+   </FileRef>
+   <FileRef
       location = "group:Ranges.playground">
    </FileRef>
    <FileRef
