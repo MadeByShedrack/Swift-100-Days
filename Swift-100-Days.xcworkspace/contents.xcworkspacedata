@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:FunctionsThree.playground">
+   </FileRef>
+   <FileRef
+      location = "group:FunctionsTwo.playground">
+   </FileRef>
+   <FileRef
+      location = "group:FunctionsOne.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Functions.playground">
+   </FileRef>
+   <FileRef
       location = "group:Exiting.playground">
    </FileRef>
    <FileRef
