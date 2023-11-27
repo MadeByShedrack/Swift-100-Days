@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ClosureFour.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ClosuresThree.playground">
+   </FileRef>
+   <FileRef
       location = "group:ClosuresTwo.playground">
    </FileRef>
    <FileRef
